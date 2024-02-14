@@ -8,5 +8,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/selenium jar/commons-io-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/selenium jar/selenium-server-4.10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/selenium jar/selenium-server-4.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium jar/selenium-server-4.15.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
